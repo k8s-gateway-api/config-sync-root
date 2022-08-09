@@ -10,7 +10,7 @@ spec:
   # Since this is for a namespace repository, the format should be unstructured
   sourceFormat: unstructured
   git:
-   repo: git@github.com:k8s-gateway-api/config-sync-app-owner.git
+   repo: git@github.com:k8s-gateway-api/sp1-config-sync-app-owner.git
    branch: main
    dir: "/"
    auth: ssh
